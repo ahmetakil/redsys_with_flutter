@@ -1,5 +1,6 @@
-class TPVVConstants
-{
+// ignore_for_file: constant_identifier_names, non_constant_identifier_names
+
+class TPVVConstants {
   static const String version = "2.2.2";
   static const String CODE_GENERIC_ERROR = "5548";
   static const String CODE_CONNECTION_ERROR = "5550";
@@ -22,5 +23,4 @@ class TPVVConstants
   static const String PAYMENT_METHOD_P = "P";
   static const String PAYMENT_METHOD_O = "O";
   static const String PAYMENT_METHOD_Z = "z";
-
 }
